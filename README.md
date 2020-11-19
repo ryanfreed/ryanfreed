@@ -1,16 +1,19 @@
-### Hi there 👋
+# **Ryan Freed's Repository**
 
-<!--
-**ryanfreed/ryanfreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github repository, where I store all of my GIS, data, and mapping files for public viewing. I am specifically interested in GIS Applications for US campaigns and elections.
 
-Here are some ideas to get you started:
+### Contact Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](mailto:rfreed9@gmail.com)
+
+[Website](https://sites.google.com/view/ryanfreed/)
+
+[LinkedIn](https://www.linkedin.com/in/ryan-freed/)
+
+### Proficiencies
+
+- ArcGIS Pro, ArcMap
+- R
+- Python
+- SPSS
+- Microsoft Office Suite
