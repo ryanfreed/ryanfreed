@@ -1,4 +1,4 @@
-# **Ryan Freed's Repository**
+# **Ryan Freed's Portfolio**
 
 Welcome to my Github repository, where I store all of my GIS, data, and mapping files for public viewing. I am specifically interested in GIS Applications for US campaigns and elections.
 
