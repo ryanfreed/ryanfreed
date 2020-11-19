@@ -15,5 +15,6 @@ Welcome to my Github repository, where I store all of my GIS, data, and mapping 
 - ArcGIS Pro, ArcMap
 - R
 - Python
+- TerrSet
 - SPSS
 - Microsoft Office Suite
