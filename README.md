@@ -1,8 +1,8 @@
-### **RYAN FREED'S REPOSITORY**
+# **RYAN FREED'S REPOSITORY**
 
 Welcome to my Github repository, where I store all of my GIS, data, and mapping files for public viewing. 
 
-# Contact Me:
+### Contact Me:
 
 [Email](mailto:rfreed9@gmail.com)
 
@@ -10,7 +10,7 @@ Welcome to my Github repository, where I store all of my GIS, data, and mapping 
 
 [LinkedIn](https://www.linkedin.com/in/ryan-freed/)
 
-# Proficiencies
+### Proficiencies
 
 - ArcGIS Pro, ArcMap
 - R
