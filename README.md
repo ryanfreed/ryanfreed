@@ -6,9 +6,9 @@ Welcome to my Github repository, where I store all of my GIS, data, and mapping 
 
 [Email](mailto:rfreed9@gmail.com)
 
-[Website](https://sites.google.com/view/ryanfreed/)
+[Website](https://sites.google.com/view/ryanfreed/){:target="_blank" rel="noopener"}
 
-[LinkedIn](https://www.linkedin.com/in/ryan-freed/)
+[LinkedIn](https://www.linkedin.com/in/ryan-freed/){:target="_blank" rel="noopener"}
 
 ### Proficiencies
 
