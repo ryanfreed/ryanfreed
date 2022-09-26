@@ -1,6 +1,6 @@
 # **Ryan Freed's Portfolio**
 
-Welcome to my Github repository, where I store all of my GIS, data, and mapping files for public viewing. I am specifically interested in GIS Applications for US campaigns and elections.
+Welcome to my Github repository, where I store all of my GIS, data, and mapping files for public viewing. I am specifically interested in web mapping automation using Python and JavaScript.
 
 ### Contact Me:
 
@@ -15,6 +15,7 @@ Welcome to my Github repository, where I store all of my GIS, data, and mapping 
 - ArcGIS Pro, ArcMap
 - R
 - Python
+- JavaScript
 - TerrSet
 - SPSS
 - Microsoft Office Suite
